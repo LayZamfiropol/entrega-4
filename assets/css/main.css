@@ -203,7 +203,7 @@ banner
     display: block;
     width: 550px; /* tamaño original */
     margin: -46px auto -53px auto; /* margen superior e inferior que tenías, y auto para centrar */
-    margin-left: -18%;
+    margin-left: -26%;
     border-radius: 8px;
     position: relative;
     z-index: 1;
